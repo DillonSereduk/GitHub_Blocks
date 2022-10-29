@@ -1,4 +1,4 @@
-* Basic CSS: 'Github Blocks'
+# Basic CSS: 'Github Blocks'
 
 
     -Practice accurately displaying blocks and images
