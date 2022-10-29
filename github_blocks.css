@@ -1,0 +1,42 @@
+.main_1 {
+    height: 200px;
+    width: 750px;
+    margin: 10px auto;
+    padding: 20px;
+    
+    background-color:cyan;
+}
+.main_2 {
+    height: 200px;
+    width: 750px;
+    margin: 10px auto;
+    padding: 20px;
+    background-color:lightpink
+}
+.main_3 {
+    height: 200px;
+    width: 750px;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: white;
+}
+
+.row_1 {
+    display:flex;
+    justify-content: space-between;
+}
+.row_2 {
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+.row_3 {
+    display:flex;
+    justify-content: space-between;
+    
+}
+.image {
+    height: 200px;
+    width: 200px;
+    
+}
